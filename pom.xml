@@ -28,6 +28,9 @@
         <maven.compile.source>1.8</maven.compile.source>
         <maven.compile.target>1.8</maven.compile.target>
         <boot.admin.client>2.3.1</boot.admin.client>
+
+        <maven-compiler-plugin.version>3.8.0</maven-compiler-plugin.version>
+        <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
     </properties>
     <modules>
         <module>ace-gate</module>
